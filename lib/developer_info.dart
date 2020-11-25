@@ -36,7 +36,7 @@ class About extends StatelessWidget {
               ),
               onPressed: () {
                 Share.share(
-                    'Focus.! Relax.! Sleep.!\nTry Relax for better Productivity.\nAmbient Sounds to wash away distraction.\n https://example.com',
+                    'Focus.! Relax.! Sleep.!\nTry Relax for better Productivity.\nAmbient Sounds to wash away distraction.\n https://github.com/ArunBalajiR/relax',
                     subject: 'Focus.! Relax.! Sleep.!');
               }),
         ],
@@ -145,7 +145,7 @@ class About extends StatelessWidget {
                       ),
                       onPressed: () {
                         Share.share(
-                            'Focus.! Relax.! Sleep.!\nTry Relax for better Productivity.\nAmbient Sounds to wash away distraction.\n https://example.com',
+                            'Focus.! Relax.! Sleep.!\nTry Relax for better Productivity.\nAmbient Sounds to wash away distraction.\n https://github.com/ArunBalajiR/relax',
                             subject: 'Focus.! Relax.! Sleep.!');
                       }),
                   SizedBox(
