@@ -10,6 +10,10 @@ Ease of choosing and blending the ambient sounds into a mixture that will perfec
 
 The purpose of this application is to be a study aid, allowing people to focus more effectively with the aid of ambience sound. This program is a clone of noisli developed for my personal offline use, however feel free to use it.
 
+ ## RELEASES:
+
+  Click [here](https://github.com/ArunBalajiR/relax/releases) to download the APK file.
+
 ## Author
 
 - [Arun Balaji R - All Work](https://github.com/ArunBalajiR)
